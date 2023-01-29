@@ -98,6 +98,8 @@ body._lock {
 .main__menu {
   flex: 0 0 185px;
   padding: 40px 20px 50px 50px;
+  height: 460px;
+  box-shadow: 0px 3px 7.5px rgba(0, 0, 0, 0.582);
 }
 
 .menu__list {
