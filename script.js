@@ -92,7 +92,10 @@ menuList.addEventListener("click", (event) => {
     menuBody.classList.remove("_active");
   }
 
-  toggleActiveMenuItem(menuItem, target);
-  cleanContent(mainContent);
-  renderData(mainContent, target);
+  if(target.classList.contains("menu__link")) {
+    toggleActiveMenuItem(menuItem, target);
+    cleanContent(mainContent);
+    renderData(mainContent, target);
+  }
+
 });
