@@ -4,7 +4,7 @@
 
 The main goal of the project was to implement the ability to load some predefined HTML content associated with a custom menu item and comprehensive implementation of a full-page responsive layout.
 
-## What did the project give me?
+## Summary
 
 In this project, the goals of a comprehensive implementation of a full-page responsive layout were realized, and the methods of working with the DOM and arrays learned earlier were used. At the same time, it was a great experience of communicating with a mentor, refactor code after a code review, and work with Git. 
 
